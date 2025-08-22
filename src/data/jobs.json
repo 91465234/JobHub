@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "title": "Frontend Developer",
+    "company": "TechCorp",
+    "location": "Bangalore, India",
+    "type": "Full-time",
+    "salary": "₹10 - ₹15 LPA",
+    "description": "We are looking for a skilled Frontend Developer to join our team. You will be responsible for building responsive web applications using React, JavaScript, and modern CSS frameworks. Collaborate with backend developers and designers to deliver seamless user experiences."
+  },
+  {
+    "id": 2,
+    "title": "ReactJS Engineer",
+    "company": "InnovateX",
+    "location": "Remote",
+    "type": "Contract",
+    "salary": "₹8 - ₹12 LPA",
+    "description": "Work remotely with a dynamic startup as a ReactJS Engineer. Your role will involve creating reusable components, optimizing performance, and integrating APIs. Strong knowledge of React hooks and state management libraries is required."
+  },
+  {
+    "id": 3,
+    "title": "UI/UX Designer",
+    "company": "PixelCraft",
+    "location": "Mumbai, India",
+    "type": "Part-time",
+    "salary": "₹5 - ₹7 LPA",
+    "description": "Join our creative team as a UI/UX Designer. You will design user-friendly interfaces, wireframes, and prototypes for web and mobile apps. Experience with Figma, Adobe XD, and usability testing is preferred."
+  },
+  {
+    "id": 4,
+    "title": "Backend Developer",
+    "company": "CodeWorks",
+    "location": "Hyderabad, India",
+    "type": "Full-time",
+    "salary": "₹12 - ₹18 LPA",
+    "description": "As a Backend Developer, you will design and maintain APIs, databases, and server-side applications. Strong knowledge of Node.js, Express, and SQL/NoSQL databases is essential. Experience with cloud deployment is a plus."
+  },
+  {
+    "id": 5,
+    "title": "Full Stack Developer",
+    "company": "NextGen Solutions",
+    "location": "Delhi, India",
+    "type": "Full-time",
+    "salary": "₹15 - ₹20 LPA",
+    "description": "Looking for a Full Stack Developer with expertise in both frontend and backend. You will work on scalable applications, integrating APIs, and implementing security best practices. Proficiency in React, Node.js, and MongoDB is required."
+  },
+  {
+    "id": 6,
+    "title": "Data Scientist",
+    "company": "AI Labs",
+    "location": "Remote",
+    "type": "Internship",
+    "salary": "₹25k - ₹40k /month",
+    "description": "AI Labs is offering an internship opportunity for aspiring Data Scientists. Learn and work on real-world datasets, build predictive models, and deploy ML solutions. Knowledge of Python, Pandas, and machine learning libraries is needed."
+  },
+  {
+    "id": 7,
+    "title": "DevOps Engineer",
+    "company": "CloudNet",
+    "location": "Pune, India",
+    "type": "Full-time",
+    "salary": "₹11 - ₹16 LPA",
+    "description": "We need a DevOps Engineer to manage cloud infrastructure, CI/CD pipelines, and monitoring tools. Experience with AWS, Docker, Kubernetes, and Jenkins is required. Automation scripting knowledge is a plus."
+  },
+  {
+    "id": 8,
+    "title": "Mobile App Developer",
+    "company": "Appify",
+    "location": "Chennai, India",
+    "type": "Contract",
+    "salary": "₹9 - ₹13 LPA",
+    "description": "Appify is hiring a Mobile App Developer to work on cross-platform applications. Experience with React Native or Flutter is mandatory. You will collaborate with designers and backend teams to deliver high-quality apps."
+  },
+  {
+    "id": 9,
+    "title": "Product Manager",
+    "company": "Visionary Tech",
+    "location": "Bangalore, India",
+    "type": "Full-time",
+    "salary": "₹20 - ₹28 LPA",
+    "description": "As a Product Manager, you will define product strategies, gather requirements, and lead the execution of new features. Strong communication skills and experience in Agile methodologies are a must."
+  },
+  {
+    "id": 10,
+    "title": "QA Engineer",
+    "company": "BugZero",
+    "location": "Kolkata, India",
+    "type": "Part-time",
+    "salary": "₹6 - ₹9 LPA",
+    "description": "BugZero is looking for a QA Engineer to test web and mobile applications. You will create test cases, report bugs, and ensure high-quality releases. Knowledge of manual and automated testing tools is required."
+  }
+]
