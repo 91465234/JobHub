@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import JobCard from "../components/JobCard";  // 
+import Jobcard from '../components/Jobcard';  // 
 import { Link } from "react-router-dom";
 
 const Jobs = ({ jobs }) => {
@@ -69,7 +69,7 @@ const Jobs = ({ jobs }) => {
 
       {/* Job Cards Grid */}
       <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
-        {filteredJobs.map((job) => (<JobCard job={job} />
+        {filteredJobs.map((job) => (<Jobcard job={job} />
         ))}
 
         {filteredJobs.length === 0 && (
